@@ -1,2 +1,0 @@
-# MaxxPaint
-Paints Company
